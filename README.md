@@ -21,15 +21,8 @@ Desenvolvimento Mobile, utilizando Android Studio.
 
 ---
 ## Interface do Aplicativo
-Campos disponíveis:
-- Nome do veículo
-- Placa do veículo
-- Distância (km)
-- Consumo médio (km/L)
-- Preço do combustível (R$/L)
-Resultados exibidos:
-- Combustível necessário (litros)
-- Custo da viagem (reais)
+<img width="273" height="483" alt="image" src="https://github.com/user-attachments/assets/11e551be-8310-4fa1-aa6f-c3e5a10eef08" />
+  
 ---
 ## Tecnologias Utilizadas
 - **Linguagem:** Java
